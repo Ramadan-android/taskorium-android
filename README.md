@@ -20,33 +20,17 @@ A modern Android task management application built with Kotlin and Jetpack Compo
 
 ## Screenshots
 
-### Authentication
+<p align="center">
+  <img src="screenshots/login.jpeg" width="220">
+  <img src="screenshots/home.jpeg" width="220">
+  <img src="screenshots/home_search.jpeg" width="220">
+</p>
 
-![Login screen](screenshots/login.jpeg)
-
-### Empty Home
-
-![Empty home screen](screenshots/empty_home.jpeg)
-
-### Home Filter
-
-![Home filter screen](screenshots/home_filter.jpeg)
-
-### Home Search
-
-![Home search screen](screenshots/home_search.jpeg)
-
-### Home
-
-![Home screen](screenshots/home.jpeg)
-
-### Add Task
-
-![Add task screen](screenshots/add-task.jpeg)
-
-### Add Task and Category
-
-![Add task and category screen](screenshots/add-task-category.jpeg)
+<p align="center">
+  <img src="screenshots/home_filter.jpeg" width="220">
+  <img src="screenshots/add-task.jpeg" width="220">
+  <img src="screenshots/add-task-category.jpeg" width="220">
+</p>
 
 ## Tech Stack
 
