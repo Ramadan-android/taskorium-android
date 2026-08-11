@@ -18,6 +18,36 @@ A modern Android task management application built with Kotlin and Jetpack Compo
 * Soft deletion
 * Reactive UI state management with StateFlow and SharedFlow
 
+## Screenshots
+
+### Authentication
+
+![Login screen](screenshots/login.jpeg)
+
+### Empty Home
+
+![Empty home screen](screenshots/empty_home.jpeg)
+
+### Home Filter
+
+![Home filter screen](screenshots/home_filter.jpeg)
+
+### Home Search
+
+![Home search screen](screenshots/home_search.jpeg)
+
+### Home
+
+![Home screen](screenshots/home.jpeg)
+
+### Add Task
+
+![Add task screen](screenshots/add-task.jpeg)
+
+### Add Task and Category
+
+![Add task and category screen](screenshots/add-task-category.jpeg)
+
 ## Tech Stack
 
 ### Language & UI
