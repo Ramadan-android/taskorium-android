@@ -1,0 +1,27 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Local configuration
+/local.properties
+
+# Gradle
+.gradle/
+
+# Build output
+/build/
+**/build/
+
+# Android build
+.externalNativeBuild/
+.cxx/
+
+# Captures
+/captures/
+
+# macOS
+.DS_Store
+
+# Local project notes / IDE files
+PROJECT_MEMORY.md
+Taskorium.xml
